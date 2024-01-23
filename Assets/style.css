@@ -26,7 +26,8 @@ body {
 .table {
   color: #e53935;
   font-size: 20px;
-  margin: 20px;
+  margin: 25px;
   padding: 10px;
   text-align: center;
+  line-height: 2rem;
 }
